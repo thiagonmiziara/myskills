@@ -52,7 +52,7 @@ export function Home() {
       <TextInput
         style={styles.input}
         placeholder='New Skill'
-        placeholderTextColor='#555'
+        placeholderTextColor='#555555'
         onChangeText={setNewSkill}
       />
 
